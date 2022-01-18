@@ -2,7 +2,7 @@
 
 ### Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Hey, I'm Shyamdev Krishnan J
 #### I'm an AIE student studying in Amrita University.
-I'm an AIE student studying in Amrita University.
+
 Gonna Update this one later!!!!!!
 
 Skills: let's say some Python and Java for now..
