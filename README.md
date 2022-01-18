@@ -2,8 +2,7 @@
 
 ### Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Hey, I'm Shyamdev Krishnan J
 #### I'm an AIE student studying in Amrita University.
-![I'm an AIE student studying in Amrita University.](https://i2.wp.com/www.realpythonproject.com/wp-content/uploads/2021/02/1_1NmxcsVu2ZeLr3RqF4rCVw.jpeg?fit=1200%2C800&ssl=1)
-
+I'm an AIE student studying in Amrita University.
 Gonna Update this one later!!!!!!
 
 Skills: let's say some Python and Java for now..
@@ -14,13 +13,9 @@ Skills: let's say some Python and Java for now..
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shyamdevkrishnanj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shy.am.___/)  
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyamdevkrishnanj)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shyamdevkrishnanj)  
-
+  
 ![Profile views](https://gpvc.arturio.dev/Shyamdevkrishnanj)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shyamdevkrishnanj)](https://github.com/anuraghazra/github-readme-stats)
