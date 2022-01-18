@@ -5,9 +5,8 @@
 
 Gonna Update this one later!!!!!!
 
-Skills: let's say some Python and Java for now..
+Skills: Let's say some Python and Java for now..
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning AI and ML 
 - 📫 How to reach me: sdkrishnan16@gmail.com 
 
@@ -17,7 +16,7 @@ Skills: let's say some Python and Java for now..
   
 ![Profile views](https://gpvc.arturio.dev/Shyamdevkrishnanj)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shyamdevkrishnanj)](https://github.com/anuraghazra/github-readme-stats)
+[![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shyamdevkrishnanj)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/hxrshx/hxrshx/blob/main/github-contribution-grid-snake.svg)
 
