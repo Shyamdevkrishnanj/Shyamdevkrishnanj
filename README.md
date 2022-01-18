@@ -20,8 +20,6 @@ Skills: Let's say some Python and Java for now..
 - 📫 How to reach me: sdkrishnan16@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shy.am.___/)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyamdevkrishnanj&theme=tokyonight)
   
 ![Profile views](https://gpvc.arturio.dev/Shyamdevkrishnanj)  
 
