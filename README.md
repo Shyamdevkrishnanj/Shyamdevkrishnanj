@@ -1,6 +1,6 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> 
 
-### Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Hey, I'm Shyamdev Krishnan J
+###<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,Hey, I'm Shyamdev Krishnan J
 #### I'm an AIE student studying in Amrita University.
 
 Gonna Update this one later!!!!!!
