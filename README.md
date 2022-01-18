@@ -11,9 +11,8 @@ Skills: let's say some Python and Java for now..
 - 🌱 I’m currently learning AI and ML 
 - 📫 How to reach me: sdkrishnan16@gmail.com 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shy.am.___/)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shyamdevkrishnanj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shy.am.___/)  
- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyamdevkrishnanj)](https://github.com/anuraghazra/github-readme-stats)
   
 ![Profile views](https://gpvc.arturio.dev/Shyamdevkrishnanj)  
