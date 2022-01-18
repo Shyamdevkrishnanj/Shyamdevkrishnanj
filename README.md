@@ -1,10 +1,18 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> 
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="center"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hey, I'm Shyamdev Krishnan J
-#### I'm an AIE student studying in Amrita University.
+<h3 align="center">
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hey, I'm Shyamdev Krishnan J
+</h3>
 
-Gonna Update this one later!!!!!!
+ <h3 align="center">
+  I'm an AIE student studying in Amrita University.
+ </h3>
+  
+ 
+ <h3 align="center">
+  Gonna Update this one later!!!!!!
+ </h3>
 
 Skills: Let's say some Python and Java for now..
 
