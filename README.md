@@ -24,5 +24,7 @@ Skills: Let's say some Python and Java for now..
 
   ![Snake animation](https://github.com/hxrshx/hxrshx/blob/main/github-contribution-grid-snake.svg)
 
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31o4m536pflqlqcwicxkpxtv4tly&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31o4m536pflqlqcwicxkpxtv4tly&redirect=true)
+  
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> 
 
