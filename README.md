@@ -19,7 +19,7 @@ Skills: Let's say some Python and Java for now..
 - 🌱 I’m currently learning AI and ML 
 - 📫 How to reach me: sdkrishnan16@gmail.com 
 
-[![Instagram Badge](https://img.shields.io/badge/-roshanjayraj-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/shy.am.___/)](https://www.instagram.com/shy.am.___/)
+[![Instagram Badge](https://img.shields.io/badge/-shy.am.___-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/shy.am.___/)](https://www.instagram.com/shy.am.___/)
 [![Gmail Badge](https://img.shields.io/badge/-mail@sdkrishnan16@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@sdkrishnan16@gmail.com)](mailto:mail@jayraj.co.in)
   
 ![Profile views](https://gpvc.arturio.dev/Shyamdevkrishnanj)  
