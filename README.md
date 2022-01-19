@@ -1,8 +1,8 @@
 <p align="center"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<h3 align="center">
+<h2 align="center">
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hey, I'm Shyamdev Krishnan J
-</h3>
+</h2>
 
  <h3 align="center">
   I'm an AIE student studying in Amrita University.
@@ -13,8 +13,10 @@
   Gonna Update this one later!!!!!!
  </h3>
 
+  <h4 align="center">
 Skills: Let's say some Python and Java for now..
-
+ </h4>
+ 
 - 🌱 I’m currently learning AI and ML 
 - 📫 How to reach me: sdkrishnan16@gmail.com 
 
