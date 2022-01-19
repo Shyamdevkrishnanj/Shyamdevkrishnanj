@@ -23,8 +23,6 @@ Skills: Let's say some Python and Java for now..
 [![Instagram Badge](https://img.shields.io/badge/-shy.am.___-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/shy.am.___/)](https://www.instagram.com/shy.am.___/)
 [![Gmail Badge](https://img.shields.io/badge/-mail@sdkrishnan16@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@sdkrishnan16@gmail.com)](mailto:mail@jayraj.co.in)
   
-![Profile views](https://gpvc.arturio.dev/Shyamdevkrishnanj)  
-
 <details>
   <summary>My GitHub Stats AND Language Stats</summary>
   
@@ -35,5 +33,7 @@ Skills: Let's say some Python and Java for now..
   
  ![Snake animation](https://github.com/hxrshx/hxrshx/blob/main/github-contribution-grid-snake.svg)
 
+ ![Profile views](https://gpvc.arturio.dev/Shyamdevkrishnanj)  
+ 
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> 
 
