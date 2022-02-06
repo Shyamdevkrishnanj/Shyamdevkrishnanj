@@ -35,8 +35,6 @@ Skills: Let's say some Python and Java for now..
  </div>
  </details> 
  
- ![Snake animation](https://github.com/hxrshx/hxrshx/blob/main/github-contribution-grid-snake.svg)
-
  ![Profile views](https://gpvc.arturio.dev/Shyamdevkrishnanj)  
  
  
