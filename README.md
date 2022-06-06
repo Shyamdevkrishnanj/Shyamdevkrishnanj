@@ -1,7 +1,7 @@
 <p align="center"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 <h2 align="center">
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hey, I'm Shyamdev Krishnan J
+ Hey, I'm Shyamdev Krishnan J
 </h2>
 
  <h3 align="center">
