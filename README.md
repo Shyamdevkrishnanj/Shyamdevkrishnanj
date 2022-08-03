@@ -40,11 +40,6 @@ Skills: Let's say some Python and Java for now..
   </tr>
 </table>
 
- <div align="center">
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shyamdevkrishnanj)](https://git.io/streak-stats)
-   
- </div>
  </details> 
  
  ![Profile views](https://gpvc.arturio.dev/Shyamdevkrishnanj)  
