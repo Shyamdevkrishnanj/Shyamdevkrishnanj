@@ -14,7 +14,6 @@
  </h3>
 
   <h4 align="center">
-Skills: Let's say some Python and Java for now..
  </h4>
  
 - 🌱 I’m currently learning AI and ML 
