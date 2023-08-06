@@ -9,12 +9,12 @@
  </h3>
   
  
- <h3 align="center">
-  I am an enthusiastic learner with a strong interest in Artificial Intelligence and Machine Learning. I am currently pursuing my degree in CSE ,AI and Ml at Amrita University. My journey into the world of web development began during my early college years, and since then, I've been captivated by the endless possibilities it offers.
- </h3>
+<h3 align="center">
+I am an enthusiastic learner with a strong interest in Artificial Intelligence and Machine Learning. I am currently pursuing my degree in CSE ,AI and Ml at Amrita University. My journey into the world of web development began during my early college years, and since then, I've been captivated by the endless possibilities it offers.
+</h3>
 
-  <h4 align="center">
- </h4>
+ <h4 align="center">
+</h4>
  
 - 🌱 I’m currently working on Web Dev Projects
 - 📫 Reach me at: sdkrishnan16@gmail.com
