@@ -48,7 +48,7 @@ I am an enthusiastic learner with a strong interest in Artificial Intelligence a
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shyamdevkrishnanj&icon=0&color=9)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
