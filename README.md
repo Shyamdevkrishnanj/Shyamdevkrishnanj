@@ -3,11 +3,6 @@
 <h2 align="center">
  Hey, I'm Shyamdev Krishnan J
 </h2>
-
- <h3 align="center">
-  I'm an AIE student studying in Amrita Vishwa Vidyapeetham, Amritapuri.
- </h3>
-  
  
 <h3 align="center">
 I am an enthusiastic learner with a strong interest in Artificial Intelligence and Machine Learning. I am currently pursuing my degree in CSE ,AI and Ml at Amrita Vishwa Vidyapeetham. My journey into the world of web development began during my early college years, and since then, I've been captivated by the endless possibilities it offers.
