@@ -5,7 +5,7 @@
 </h2>
  
 <h3 align="center">
-I am an enthusiastic learner with a strong interest in Artificial Intelligence and Machine Learning. I am currently pursuing my degree in CSE ,AI and Ml at Amrita Vishwa Vidyapeetham. My journey into the world of web development began during my early college years, and since then, I've been captivated by the endless possibilities it offers.
+A multi-faceted creative based in India. I wear several hats: Web Developer, Project Manager, and Designer. I am currently pursuing my degree in CSE ,AI and Ml at Amrita Vishwa Vidyapeetham. My journey into the world of web development began during my early college years, and since then, I've been captivated by the endless possibilities it offers.
 </h3>
 
  <h4 align="center">
